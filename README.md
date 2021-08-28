@@ -3,7 +3,7 @@ Welcome to my website! I have a Ph.D. in Economics from the University of Housto
 
 </br>
 
-### Contact Info
+### Contact
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)  
 Phone: (+63) 966-824-5790
 
