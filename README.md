@@ -2,7 +2,7 @@
 	<body>
 		<div class="container">
 			<div class="blurb">
-				<h1>About Me</h1>
+				<!--<h1>About Me</h1>-->
 					<p>Welcome to my website! I have a Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, 
 					consumption, and household finance. I will be joining the Sim Kee Boon Institute for Financial Economics as a research fellow in the 
 					fall.</p>
