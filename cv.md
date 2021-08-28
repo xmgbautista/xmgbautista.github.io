@@ -1,7 +1,0 @@
----
-title: CV
-layout: template
-filename: cv.md
----
-
-CV page
