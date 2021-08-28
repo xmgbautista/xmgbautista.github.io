@@ -5,6 +5,8 @@ ___
 ### About Me
 Welcome to my website! I have a Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance. I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow in the fall. 
 
+</p> &nbsp; </p>
+
 ### Contact
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)  
 Phone: (+63) 966-824-5790
