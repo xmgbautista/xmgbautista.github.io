@@ -9,7 +9,7 @@
 			</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
-        		Email: <a href="mailto:xmgbautista@gmail.com" style="color:#FF0000;">xmgbautista@gmail.com</a><br>
+        		Email: <a href="mailto:xmgbautista@gmail.com" style="color:#000000;">xmgbautista@gmail.com</a><br>
             		Phone: (+63) 966-824-5790
 		</footer>
 	</body>
