@@ -2,6 +2,9 @@ ___
 ### &nbsp; [Home](https://xmgbautista.github.io/) &nbsp; &nbsp; [CV](https://xmgbautista.github.io/cv_xmgbautista.pdf) &nbsp; &nbsp; [Research](https://xmgbautista.github.io/research)
 ___
 
+&nbsp;
+&nbsp; 
+
 ### Working Papers
 <ul>
   <li> Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle </li>
