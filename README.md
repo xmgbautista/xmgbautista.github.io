@@ -2,11 +2,14 @@ ___
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [Home](https://xmgbautista.github.io/) &nbsp; &nbsp; [CV](https://xmgbautista.github.io/cv_xmgbautista.pdf) &nbsp; &nbsp; [Research](https://xmgbautista.github.io/research)
 ___
 
-<img align="left"  src="https://xmgbautista.github.io/headshot_small.PNG" alt="drawing" width="175"/> 
+<img align="left"  src="https://xmgbautista.github.io/headshot_small.PNG" alt="drawing" width="175"/>  &nbsp; &nbsp;
 
 ### About Me
 Welcome to my website! I have a Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance. I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow in the fall. 
 
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 
