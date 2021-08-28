@@ -1,5 +1,5 @@
-layout: page
-title: "CV"
-permalink: /cv/
+layout: page  
+title: "CV"  
+permalink: /cv/  
 
 Test.
