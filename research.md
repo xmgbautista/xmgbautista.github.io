@@ -13,5 +13,5 @@ ___
 <ul>
   <li> A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle. <br><em>(with Daniel Jacobs)</em>  </li>
   <li> Inequality in Refinancing. <br><em>(with Yuliya Demyanyk, María José  Luengo-Prado and Bent E. Sørensen)</em>  </li>
-  <li> Risk and Insurance in Indian Villages: The Role of Local Credit Markets. <em>(With Eris Azizaj and Priyam Verma)</em> </li>
+  <li> Risk and Insurance in Indian Villages: The Role of Local Credit Markets. <br><em>(With Eris Azizaj and Priyam Verma)</em> </li>
 </ul>
