@@ -1,5 +1,5 @@
 ___
-### [Home](https://xmgbautista.github.io/) &nbsp; &nbsp; [CV](https://xmgbautista.github.io/cv_xmgbautista.pdf) &nbsp; &nbsp; [Research](https://xmgbautista.github.io/research)
+### &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; [Home](https://xmgbautista.github.io/) &emsp; &emsp;  [CV](https://xmgbautista.github.io/cv_xmgbautista.pdf) &emsp; &emsp; [Research](https://xmgbautista.github.io/research)
 ___
 
 ### About Me
