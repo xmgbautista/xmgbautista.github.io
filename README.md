@@ -1,5 +1,5 @@
 ___
-### <div align="right">[Home](https://xmgbautista.github.io/) &nbsp; &nbsp; [CV](https://xmgbautista.github.io/cv_xmgbautista.pdf) &nbsp; &nbsp; [Research](https://xmgbautista.github.io/cv_xmgbautista.pdf) &nbsp; &nbsp; [Teaching](https://xmgbautista.github.io/cv_xmgbautista.pdf)</div>  
+### <div align="right"> [Home](https://xmgbautista.github.io/) &nbsp; &nbsp; [CV](https://xmgbautista.github.io/cv_xmgbautista.pdf) &nbsp; &nbsp; [Research](https://xmgbautista.github.io/cv_xmgbautista.pdf) &nbsp; &nbsp; [Teaching](https://xmgbautista.github.io/cv_xmgbautista.pdf) </div>  
 ___
 
 ### About Me
