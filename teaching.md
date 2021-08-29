@@ -12,11 +12,8 @@ ___
 ___
 
 <h3> 
-    University of Houston
+    Department of Economics, University of Houston
 </h3>
-<h4>
-    Department of Economics
-</h4>
         
 <ul>
     <li> Intermediate Macroeconomics <br>
@@ -37,11 +34,8 @@ ___
 ___
 
 <h3> 
-    Brandeis University
+    Department of Economics, Brandeis University
 </h3>
-<h4>
-    Department of Economics
-</h4>
     
 <ul>
     <li> Econometrics <br>
