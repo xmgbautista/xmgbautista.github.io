@@ -13,7 +13,8 @@ ___
 
 <h3> Department of Economics, University of Houston </h3>
 <ul>
-    <li><h4> Intermediate Macroeconomics </h4>  &emsp; <em> Teaching Assistant, </em> Spring 2021 </li> <br>
+    <li><h4> Intermediate Macroeconomics </h4>  
+        &emsp; <em> Teaching Assistant, </em> Spring 2021 </li> <br>
     <li><h4> Econometrics II (Ph. D.) </h4>
         &emsp; <em> Teaching Assistant, </em> Fall 2017, Fall 2019, Fall 2020 </li> <br>
     <li><h4> Microeconomic Principles </h4>
