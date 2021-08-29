@@ -28,7 +28,7 @@ ___
 <h3> 
     Research Interests
 </h3>
-    &emsp; Macroeconomics, Consumption, and Household Finance <br>
+    Macroeconomics, Consumption, and Household Finance <br>
     
 ___
 
