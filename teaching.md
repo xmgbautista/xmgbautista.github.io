@@ -1,37 +1,53 @@
 ___
 
 <h3> 
-    <p align="center"> <a href="https://xmgbautista.github.io/">Home</a> &emsp;
-    <a href="https://xmgbautista.github.io/cv_xmgbautista.pdf">CV</a> &emsp;
-    <a href="https://xmgbautista.github.io/research">Research</a> </p> &emsp;
-    <a href="https://xmgbautista.github.io/teaching">Teaching</a>
-    
+    <p align="center"> 
+        <a href="https://xmgbautista.github.io/">Home</a> &emsp;
+        <a href="https://xmgbautista.github.io/cv_xmgbautista.pdf">CV</a> &emsp;
+        <a href="https://xmgbautista.github.io/research">Research</a> &emsp;
+        <a href="https://xmgbautista.github.io/teaching">Teaching</a> 
+    </p>
 </h3>
 
 ___
 
 ### Department of Economics, University of Houston
 <ul>
-    <li><h4> Teaching Assistant </h4></li>
+    <li><h4> Intermediate Macroeconomics </h4></li>
         <ul>
-            <li> <h6> Intermediate Macroeconomics </h6></li>
-            <li> <h6> Econometrics II (Ph. D.) </h6></li>
-            <li> <h6> Econometrics I (Ph. D.) </h6></li>
-            <li> <h6> Economics of Money and Banking </h6></li>
-            <li> <h6> Macroeconomic Principles </h6></li>
+            <li> <h5> <em> Teaching Assistant, </em> Spring 2021 </h5></li>
         </ul>
-    <li><h4> Teaching Fellow </h4></li>
+    <li><h4> Econometrics II (Ph. D.) </h4></li>
         <ul>
-            <li> <h6> Microeconomic Principles </h6></li>
-            <li> <h6> Macroeconomic Principles </h6></li>
+            <li> <h5> <em> Teaching Assistant, </em> Fall 2017, Fall 2019, Fall 2020 </h5></li>
+        </ul>
+    <li><h4> Microeconomic Principles </h4></li>
+        <ul>
+            <li> <h5> <em> Teaching Assistant, </em> Summer 2018, Fall 2018, Spring 2020 </h5></li>
+        </ul>
+    <li><h4> Macroeconomic Principles </h4></li>
+        <ul>
+            <li> <h5> <em> Teaching Fellow, </em> Spring 2018, Spring 2019 </h5></li>
+            <li> <h5> <em> Teaching Assistant, </em> Fall 2015, Spring 2016 </h5></li>
+        </ul>
+    <li><h4> Econometrics II (Ph. D.) </h4></li>
+        <ul>
+            <li> <h5> <em> Teaching Assistant, </em> Spring 2017 </h5></li>
+        </ul>
+    <li><h4> Economics of Money and Banking </h4></li>
+        <ul>
+            <li> <h5> <em> Teaching Assistant, </em> Fall 2015, Spring 2016 </h5></li>
         </ul>
 </ul>
 
 ### Department of Economics, Brandeis University
 <ul>
-    <li><h4> Teaching Assistant </h4></li>
+    <li><h4> Econometrics </h4></li>
         <ul>
-            <li> <h6> Econometrics </h6></li>
-            <li> <h6> Introduction to the Economics of Development </h6></li>
+            <li> <h5> <em> Teaching Assistant, </em> Spring 2015 </h5></li>
+        </ul>
+    <li><h4> Introduction to the Economics of Development  </h4></li>
+        <ul>
+            <li> <h5> <em> Teaching Assistant, </em> Fall 2014 </h5></li>
         </ul>
 </ul>
