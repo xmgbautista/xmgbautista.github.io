@@ -14,14 +14,14 @@ ___
 <h3> 
     Education
 </h3>
-<p>
-    University of Houston
-            &emsp; Ph.D. in Economics, 2021 <br>
+<ul>
+    <li> University of Houston <br>
+            &emsp; Ph.D. in Economics, 2021 </li>
     <br>
-    Brandeis University
+    <li> Brandeis University <br>
             &emsp; B.A. in Economics and B.A. in Mathematics, 2015 <br>
-            &emsp; <em> Cum laude with department honors in economics and mathematics.</em>
-</p>
+            &emsp; <em> Cum laude with department honors in economics and mathematics.</em> </li>
+</ul>
 
 ___
 
