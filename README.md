@@ -1,4 +1,36 @@
+___
 
+<h3> 
+    <p align="center"> 
+        <a href="https://xmgbautista.github.io/">Home</a> &emsp;
+        <a href="https://xmgbautista.github.io/research">Research</a> &emsp;
+        <a href="https://xmgbautista.github.io/cv">CV</a> <!-- &emsp;
+        <a href="https://xmgbautista.github.io/teaching">Teaching</a> -->
+    </p>
+</h3>
+
+___
+
+<h3>  
+    About Me 
+</h3>
+
+Welcome to my website! I have a Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance. 
+<br>
+<br>
+
+I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. 
+<br>
+<br>
+
+___
+
+<h3>  
+    Contact Details 
+</h3>
+
+Email: <a href="mailto:xmgbautista@gmail.com">xmgbautista@gmail.com</a><br>
+Phone: (+63) 966-824-5790
 
 
 
