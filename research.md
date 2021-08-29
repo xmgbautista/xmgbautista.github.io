@@ -18,6 +18,8 @@ ___
        <em>(with Steven G. Craig, Yuhsin Hsu, Bent E. Sørensen, Vasundhara Tanwar and Priyam Verma)</em></li>
 </ul>
 
+___
+
 <h3> Works in Progress </h3>
 <ul>
   <li> A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle. <em>(with Daniel Jacobs)</em>  </li>
