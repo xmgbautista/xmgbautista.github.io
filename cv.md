@@ -14,25 +14,21 @@ ___
 <h3> 
     Education
 </h3>
-<ul>
-    <h4>
-        University of Houston 
-    </h4>
-        &ensp; Ph.D. in Economics
-
-    <h4>
-        Brandeis University
-    </h4>
-        &ensp; B.A. in Economics and B.A. in Mathematics <br>
-        &ensp; <em> Cum laude with department honors in economics and mathematics.</em>
-</ul>
+<p>
+    &emsp; University of Houston, 2021 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Houston, TX, USA </em><br>
+            &emsp;&emsp; Ph.D. in Economics <br>
+    <br>
+    &emsp; Brandeis University, 2015 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Waltham, MA, USA </em><br>
+            &emsp;&emsp; B.A. in Economics and B.A. in Mathematics <br>
+            &emsp;&emsp; <em> Cum laude with department honors in economics and mathematics.</em>
+</p>
 
 ___
 
 <h3> 
     Research Interests
 </h3>
-    &ensp; Macroeconomics, Consumption, and Household Finance <br>
+    &emsp; Macroeconomics, Consumption, and Household Finance <br>
     
 ___
 
