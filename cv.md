@@ -17,20 +17,20 @@ ___
 <h4>
     University of Houston 
 </h4>
-    <html>&emsp; Ph.D. in Economics</html>
+    Ph.D. in Economics
     
 <h4>
     Brandeis University
 </h4>
-    <html>&emsp; B.A. in Economics and B.A. in Mathematics <br></html>
-    <html>&emsp; <em> Cum laude with department honors in economics and mathematics.</em></html>
+    B.A. in Economics and B.A. in Mathematics <br>
+    <em> Cum laude with department honors in economics and mathematics.</em>
 
 ___
 
 <h3> 
     Research Interests
 </h3>
-    <html>&emsp; Macroeconomics, Consumption, and Household Finance <br></html>
+    Macroeconomics, Consumption, and Household Finance <br>
     
 ___
 
