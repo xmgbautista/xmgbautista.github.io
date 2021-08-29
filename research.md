@@ -18,8 +18,7 @@ ___
        <em>(with Steven G. Craig, Yuhsin Hsu, Bent E. Sørensen, Vasundhara Tanwar and Priyam Verma)</em></li>
 </ul>
 
-&nbsp;
-&nbsp;
+<br>
 
 ### Works in Progress
 <ul>
