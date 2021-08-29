@@ -23,8 +23,10 @@ I will be joining the Sim Kee Boon Institute for Financial Economics at Singapor
 <br>
 <br>
 
+___
+
 <h3>  
-    Contact Information 
+    Contact Details 
 </h3>
 
 Email: <a href="mailto:xmgbautista@gmail.com">xmgbautista@gmail.com</a><br>
