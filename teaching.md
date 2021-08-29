@@ -10,8 +10,8 @@ ___
 
 ___
 
-#### Department of Economics, University of Houston
-##### &emsp;&emsp; Teaching Assistant
+### Department of Economics, University of Houston
+#### &emsp;&emsp; Teaching Assistant
 <ul>
     <ul>
         <li> <h6> Intermediate Macroeconomics </h6></li>
@@ -22,7 +22,7 @@ ___
     </ul>
 </ul>
 
-##### &emsp;&emsp; Teaching Fellow
+#### &emsp;&emsp; Teaching Fellow
 <ul>
     <ul>
         <li> <h6> Microeconomic Principles </h6></li>
@@ -30,8 +30,8 @@ ___
     </ul>
 </ul>
 
-#### Department of Economics, Brandeis University
-##### &emsp;&emsp; Teaching Assistant
+### Department of Economics, Brandeis University
+#### &emsp;&emsp; Teaching Assistant
 <ul>
     <ul>
         <li> <h6> Econometrics </h6></li>
