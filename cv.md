@@ -14,16 +14,18 @@ ___
 <h3> 
     Education
 </h3>
-<h4>
-    University of Houston 
-</h4>
-    &ensp; Ph.D. in Economics
-    
-<h4>
-    Brandeis University
-</h4>
-    &ensp; B.A. in Economics and B.A. in Mathematics <br>
-    &ensp; <em> Cum laude with department honors in economics and mathematics.</em>
+<ul>
+    <h4>
+        University of Houston 
+    </h4>
+        &ensp; Ph.D. in Economics
+
+    <h4>
+        Brandeis University
+    </h4>
+        &ensp; B.A. in Economics and B.A. in Mathematics <br>
+        &ensp; <em> Cum laude with department honors in economics and mathematics.</em>
+</ul>
 
 ___
 
