@@ -12,7 +12,7 @@ ___
 ___
 
 <h3> 
-    University of Houston &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Houston, TX, USA </em>
+    University of Houston
 </h3>
 <h4>
     Department of Economics
@@ -37,7 +37,7 @@ ___
 ___
 
 <h3> 
-    Brandeis University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Waltham, MA, USA </em>
+    Brandeis University
 </h3>
 <h4>
     Department of Economics
