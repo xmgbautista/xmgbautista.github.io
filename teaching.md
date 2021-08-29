@@ -14,24 +14,24 @@ ___
 <h3> Department of Economics, University of Houston </h3>
 <ul>
     <li><h4> Intermediate Macroeconomics </h4> 
-        &emsp; <em> Teaching Assistant, </em> Spring 2021 </li>
+        &emsp; <em> Teaching Assistant, </em> Spring 2021 <br> </li>
     <li><h4> Econometrics II (Ph. D.) </h4>
-        &emsp; <em> Teaching Assistant, </em> Fall 2017, Fall 2019, Fall 2020 </li>
+        &emsp; <em> Teaching Assistant, </em> Fall 2017, Fall 2019, Fall 2020 <br> </li>
     <li><h4> Microeconomic Principles </h4>
-        &emsp; <em> Teaching Assistant, </em> Summer 2018, Fall 2018, Spring 2020 </li>
+        &emsp; <em> Teaching Assistant, </em> Summer 2018, Fall 2018, Spring 2020 <br> </li>
     <li><h4> Macroeconomic Principles </h4>
         &emsp; <em> Teaching Fellow, </em> Spring 2018, Spring 2019 <br>
-        &emsp; <em> Teaching Assistant, </em> Fall 2015, Spring 2016 </li>
+        &emsp; <em> Teaching Assistant, </em> Fall 2015, Spring 2016 <br> </li>
     <li><h4> Econometrics II (Ph. D.) </h4>
-        &emsp; <em> Teaching Assistant, </em> Spring 2017 </li>
+        &emsp; <em> Teaching Assistant, </em> Spring 2017 <br> </li>
     <li><h4> Economics of Money and Banking </h4>
-        &emsp; <em> Teaching Assistant, </em> Fall 2015, Spring 2016 </li>
+        &emsp; <em> Teaching Assistant, </em> Fall 2015, Spring 2016 <br> </li>
 </ul>
 
 <h3> Department of Economics, Brandeis University </h3>
 <ul>
     <li><h4> Econometrics </h4>
-        &emsp; <em> Teaching Assistant, </em> Spring 2015 </li>
+        &emsp; <em> Teaching Assistant, </em> Spring 2015 <br> </li>
     <li><h4> Introduction to the Economics of Development </h4>
-        &emsp; <em> Teaching Assistant, </em> Fall 2014 </li>
+        &emsp; <em> Teaching Assistant, </em> Fall 2014 <br> </li>
 </ul>
