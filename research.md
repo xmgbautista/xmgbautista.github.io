@@ -1,13 +1,16 @@
 ___
 
 <h3> 
-    <p align="center"> <a href="https://xmgbautista.github.io/">Home</a> &emsp;&emsp; 
-    <a href="https://xmgbautista.github.io/cv_xmgbautista.pdf">CV</a> &emsp;&emsp; 
-    <a href="https://xmgbautista.github.io/research">Research</a> </p>
+    <p align="center"> 
+        <a href="https://xmgbautista.github.io/">Home</a> &emsp;
+        <a href="https://xmgbautista.github.io/cv_xmgbautista.pdf">CV</a> &emsp;
+        <a href="https://xmgbautista.github.io/research">Research</a> &emsp;
+        <a href="https://xmgbautista.github.io/teaching">Teaching</a> 
+    </p>
 </h3>
 
 ___
-  
+
 ### Working Papers
 <ul>
   <li> Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle <b>[Updated draft coming soon!]</b></li>
