@@ -47,5 +47,5 @@ ___
     <li> Econometrics <br>
             &emsp; <em> Teaching Assistant, </em> Spring 2015 </li> <br>
     <li> Introduction to the Economics of Development <br>
-            &emsp; <em> Teaching Assistant, </em> Fall 2014 </li><br>
+            &emsp; <em> Teaching Assistant, </em> Fall 2014 </li> <br>
 </ul>
