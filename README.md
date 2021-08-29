@@ -19,7 +19,7 @@ Welcome to my website! I have a Ph.D. in Economics from the University of Housto
 <br>
 <br>
 
-I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow in the fall. 
+I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. 
 <br>
 <br>
 
