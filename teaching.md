@@ -11,30 +11,27 @@ ___
 ___
 
 ### Department of Economics, University of Houston
-#### &emsp;&emsp; Teaching Assistant
 <ul>
-    <ul>
-        <li> <h6> Intermediate Macroeconomics </h6></li>
-        <li> <h6> Econometrics II (Ph. D.) </h6></li>
-        <li> <h6> Econometrics I (Ph. D.) </h6></li>
-        <li> <h6> Economics of Money and Banking </h6></li>
-        <li> <h6> Macroeconomic Principles </h6></li>
-    </ul>
-</ul>
-
-#### &emsp;&emsp; Teaching Fellow
-<ul>
-    <ul>
-        <li> <h6> Microeconomic Principles </h6></li>
-        <li> <h6> Macroeconomic Principles </h6></li>
-    </ul>
+    <li><h4> Teaching Assistant </h4></li>
+        <ul>
+            <li> <h6> Intermediate Macroeconomics </h6></li>
+            <li> <h6> Econometrics II (Ph. D.) </h6></li>
+            <li> <h6> Econometrics I (Ph. D.) </h6></li>
+            <li> <h6> Economics of Money and Banking </h6></li>
+            <li> <h6> Macroeconomic Principles </h6></li>
+        </ul>
+    <li><h4> Teaching Fellow </h4></li>
+        <ul>
+            <li> <h6> Microeconomic Principles </h6></li>
+            <li> <h6> Macroeconomic Principles </h6></li>
+        </ul>
 </ul>
 
 ### Department of Economics, Brandeis University
-#### &emsp;&emsp; Teaching Assistant
 <ul>
-    <ul>
-        <li> <h6> Econometrics </h6></li>
-        <li> <h6> Introduction to the Economics of Development </h6></li>
-    </ul>
+    <li><h4> Teaching Assistant </h4></li>
+        <ul>
+            <li> <h6> Econometrics </h6></li>
+            <li> <h6> Introduction to the Economics of Development </h6></li>
+        </ul>
 </ul>
