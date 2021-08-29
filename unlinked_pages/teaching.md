@@ -12,10 +12,10 @@ ___
 ___
 
 <h3> 
-    University of Houston
+    University of Houston &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Houston, TX, USA </em>
 </h3>
 <h4>
-    Department of Economics,  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Houston, TX, USA </em>
+    Department of Economics
 </h4>
         
 <ul>
@@ -35,10 +35,10 @@ ___
 </ul>
 
 <h3> 
-    Brandeis University
+    Brandeis University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Waltham, MA, USA </em>
 </h3>
 <h4>
-    Department of Economics, &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Waltham, MA, USA </em>
+    Department of Economics
 </h4>
     
 <ul>
