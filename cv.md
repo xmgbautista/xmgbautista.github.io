@@ -19,7 +19,8 @@ ___
             &emsp; Ph.D. in Economics, 2021 </li>
     <br>
     <li> Brandeis University <br>
-            &emsp; B.A. in Economics and B.A. in Mathematics, 2015 <br>
+            &emsp; B.A. in Economics and B.A. in Mathematics, 2015 
+            <br>
             &emsp; <em> Cum laude with department honors in economics and mathematics.</em> </li>
 </ul>
 
@@ -29,7 +30,8 @@ ___
     Research Interests
 </h3> 
 <ul>
-    <li> Macroeconomics, Consumption, and Household Finance </li><br>
+    <li> Macroeconomics, Consumption, and Household Finance </li>
+         <br>
 </ul>
     
 ___
