@@ -34,6 +34,8 @@ ___
             &emsp; <em> Teaching Assistant, </em> Fall 2015, Spring 2016 </li> <br>
 </ul>
 
+___
+
 <h3> 
     Brandeis University &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Waltham, MA, USA </em>
 </h3>
