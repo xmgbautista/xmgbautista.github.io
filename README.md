@@ -11,7 +11,6 @@ ___
 
 ___
 
-<img src="https://xmgbautista.github.io/profile_pic/headshot_small.PNG" align="left" alt="" width="180" height="240"/>  
 <h3>  About Me </h3>
 Welcome to my website! I have a Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, the economics of consumption, and household finance. I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow in the fall. 
 
