@@ -20,7 +20,7 @@ ___
     <li><h4> Microeconomic Principles </h4>
         &emsp; <em> Teaching Assistant, </em> Summer 2018, Fall 2018, Spring 2020 </li>
     <li><h4> Macroeconomic Principles </h4>
-        &emsp; <em> Teaching Fellow, </em> Spring 2018, Spring 2019 
+        &emsp; <em> Teaching Fellow, </em> Spring 2018, Spring 2019 <br>
         &emsp; <em> Teaching Assistant, </em> Fall 2015, Spring 2016 </li>
     <li><h4> Econometrics II (Ph. D.) </h4>
         &emsp; <em> Teaching Assistant, </em> Spring 2017 </li>
