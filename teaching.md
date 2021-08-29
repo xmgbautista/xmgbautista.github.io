@@ -28,8 +28,6 @@ ___
         <h5> &emsp; <em> Teaching Assistant, </em> Fall 2015, Spring 2016 </h5> </li>
 </ul>
 
-<br>
-
 <h3> Department of Economics, Brandeis University </h3>
 <ul>
     <li><h4> Econometrics </h4>
