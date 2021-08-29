@@ -1,2 +1,3 @@
-remote_theme: xmgbautista/academicpages.github.io
+theme: jekyll-theme-minimal
+logo: https://xmgbautista.github.io/headshot_small.PNG
 title: Xavier Martin G. Bautista
