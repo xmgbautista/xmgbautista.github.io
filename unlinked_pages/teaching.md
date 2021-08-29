@@ -12,7 +12,7 @@ ___
 ___
 
 <h3> 
-    University of Houston &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Houston, TX, USA </em>
+    University of Houston &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Houston, TX, USA </em>
 </h3>
 <h4>
     Department of Economics
