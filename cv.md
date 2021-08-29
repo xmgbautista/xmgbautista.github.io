@@ -15,11 +15,11 @@ ___
     Education
 </h3>
 <p>
-    University of Houston, 2021 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Houston, TX, USA </em><br>
-            &emsp; Ph.D. in Economics <br>
+    University of Houston
+            &emsp; Ph.D. in Economics, 2021 <br>
     <br>
-    Brandeis University, 2015 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <em> Waltham, MA, USA </em><br>
-            &emsp; B.A. in Economics and B.A. in Mathematics <br>
+    Brandeis University
+            &emsp; B.A. in Economics and B.A. in Mathematics, 2015 <br>
             &emsp; <em> Cum laude with department honors in economics and mathematics.</em>
 </p>
 
