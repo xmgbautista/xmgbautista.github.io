@@ -24,7 +24,7 @@ ___
 "A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle," with Daniel Jacobs
 <br>
 
-"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," with Yuliya Demyanyk, Mar&iacute;a Jos&eacute;  Luengo-Prado, and Bent S&oslash;rensen
+"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," with Yuliya Demyanyk, Mar&iacute;a Luengo-Prado, and Bent S&oslash;rensen
 <br>
 
 "Risk and Insurance in Indian Villages: The Role of Local Credit Markets," with Eris Azizaj and Priyam Verma <b>[Draft coming soon!]</b> 
