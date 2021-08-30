@@ -3,8 +3,7 @@ ___
 <h3> 
     <p align="center"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
-        <a href="https://xmgbautista.github.io/research">Research</a> &emsp;
-        <a href="https://xmgbautista.github.io/teaching">Teaching</a>
+        <a href="https://xmgbautista.github.io/research">Current Research</a>
     </p>
 </h3>
 
@@ -14,7 +13,7 @@ ___
     About Me 
 </h3>
 
-Welcome to my website! I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall.  My main research interests are in macroeconomics, consumption, and household finance.
+Welcome to my website! I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall.  My research interests are in macroeconomics, consumption, and household finance.
 <br>
 <br>
 
