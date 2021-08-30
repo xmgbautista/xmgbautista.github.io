@@ -1,7 +1,7 @@
 ___
 
 <h3> 
-    <p align="center"> 
+    <p align="right"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
         <a href="https://xmgbautista.github.io/research">Research</a>
     </p>
