@@ -3,7 +3,7 @@ ___
 <h3> 
     <p align="center"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
-        <a href="https://xmgbautista.github.io/research">Current Research</a>
+        <a href="https://xmgbautista.github.io/research">Research</a>
     </p>
 </h3>
 
