@@ -14,7 +14,7 @@ ___
 "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" <b>[Updated draft coming soon!]</b>
 <br>
 
-"Expenditure Smoothing with Balanced Budget Rules. U.S. State Governments 1976&ndash;2011," <em>with Steven G. Craig, Yuhsin Hsu, Bent E. Sørensen, Vasundhara Tanwar, and Priyam Verma</em> <b>[Updated draft coming soon!]</b> 
+"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," <em>with Steven G. Craig, Yuhsin Hsu, Bent E. Sørensen, Vasundhara Tanwar, and Priyam Verma</em> <b>[Updated draft coming soon!]</b> 
 <br>
 
 ___
