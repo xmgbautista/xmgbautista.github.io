@@ -4,8 +4,7 @@ ___
     <p align="center"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
         <a href="https://xmgbautista.github.io/research">Research</a> &emsp;
-        <a href="https://xmgbautista.github.io/teaching">Teaching</a> &emsp;
-        <a href="https://xmgbautista.github.io/cv">CV</a>
+        <a href="https://xmgbautista.github.io/teaching">Teaching</a>
     </p>
 </h3>
 
@@ -15,7 +14,7 @@ ___
     About Me 
 </h3>
 
-Welcome to my website! I have a Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance. 
+Welcome to my website! I have a Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance. My CV can be downloaded <a href="https://www.dropbox.com/s/i6kiv7j366r4d58/cv_xmgbautista.pdf?dl=0">here</a> (PDF).
 <br>
 <br>
 
