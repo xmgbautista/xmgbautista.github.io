@@ -25,7 +25,7 @@ I received my Ph.D. in Economics from the University of Houston. My CV can be do
 ___
 
 <h3>  
-    Contact Details 
+    Contact Information 
 </h3>
 
 Email: <a href="mailto:xmgbautista@gmail.com">xmgbautista@gmail.com</a><br>
