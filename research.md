@@ -10,24 +10,28 @@ ___
 ___
 
 <h3> Working Papers </h3>
-<ul>
-  <li> Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle <b>[Updated draft coming soon!]</b> </li> 
-       <br>
-  <li> Expenditure Smoothing with Balanced Budget Rules. U.S. State Governments 1976&ndash;2011 <b>[Updated draft coming soon!]</b> 
-       <br>
-       <em>(with Steven G. Craig, Yuhsin Hsu, Bent E. Sørensen, Vasundhara Tanwar and Priyam Verma)</em> </li>
-       <br>
-</ul>
+
+Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle <b>[Updated draft coming soon!]</b>
+<br>
+
+Expenditure Smoothing with Balanced Budget Rules. U.S. State Governments 1976&ndash;2011 <b>[Updated draft coming soon!]</b> 
+<br>
+<em>(with Steven G. Craig, Yuhsin Hsu, Bent E. Sørensen, Vasundhara Tanwar and Priyam Verma)</em>
+<br>
 
 ___
 
 <h3> Works in Progress </h3>
-<ul>
-  <li> A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle. <em>(with Daniel Jacobs)</em> </li> 
-       <br>
-  <li> Inequality in Refinancing. <em>(with Yuliya Demyanyk, María José  Luengo-Prado and Bent E. Sørensen)</em> </li>
-       <br>
-  <li> Risk and Insurance in Indian Villages: The Role of Local Credit Markets. <b>[Draft coming soon!]</b> 
-       <br>
-       <em>(With Eris Azizaj and Priyam Verma)</em> </li>
-</ul>
+
+A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle <em>(with Daniel Jacobs)</em>
+<br>
+
+Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing
+<br> 
+<em>(with Yuliya Demyanyk, María José  Luengo-Prado and Bent E. Sørensen)</em>
+<br>
+
+Risk and Insurance in Indian Villages: The Role of Local Credit Markets <b>[Draft coming soon!]</b> 
+<br>
+<em>(With Eris Azizaj and Priyam Verma)</em>
+       
