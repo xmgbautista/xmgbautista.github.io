@@ -14,18 +14,18 @@ ___
 "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" <b>[Updated draft coming soon!]</b>
 <br>
 
-"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," <em>with Steven G. Craig, Yu-Hsin Hsu, Bent E. S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma</em> <b>[Updated draft coming soon!]</b> 
+"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," with Steven G. Craig, Yu-Hsin Hsu, Bent E. S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma <b>[Updated draft coming soon!]</b> 
 <br>
 
 ___
 
 <h3> Works in Progress </h3>
 
-"A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle," <em>with Daniel Jacobs</em>
+"A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle," with Daniel Jacobs
 <br>
 
-"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," <em>with Yuliya Demyanyk, Mar&iacute;a Jos&eacute;  Luengo-Prado, and Bent E. S&oslash;rensen</em>
+"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," with Yuliya Demyanyk, Mar&iacute;a Jos&eacute;  Luengo-Prado, and Bent E. S&oslash;rensen
 <br>
 
-"Risk and Insurance in Indian Villages: The Role of Local Credit Markets," <em>with Eris Azizaj and Priyam Verma</em> <b>[Draft coming soon!]</b> 
+"Risk and Insurance in Indian Villages: The Role of Local Credit Markets," with Eris Azizaj and Priyam Verma <b>[Draft coming soon!]</b> 
        
