@@ -14,7 +14,7 @@ ___
 "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" <b>[Updated draft coming soon!]</b>
 <br>
 
-"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," with Steven G. Craig, Yu-Hsin Hsu, <br>Bent E. S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma <b>[Updated draft coming soon!]</b> 
+"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," with Steven Craig, Yu-Hsin Hsu, <br>Bent S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma <b>[Updated draft coming soon!]</b> 
 <br>
 
 ___
@@ -24,7 +24,7 @@ ___
 "A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle," with Daniel Jacobs
 <br>
 
-"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," with Yuliya Demyanyk, <br>Mar&iacute;a Jos&eacute;  Luengo-Prado, and Bent E. S&oslash;rensen
+"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," with Yuliya Demyanyk, Mar&iacute;a Jos&eacute;  Luengo-Prado, and Bent S&oslash;rensen
 <br>
 
 "Risk and Insurance in Indian Villages: The Role of Local Credit Markets," with Eris Azizaj and Priyam Verma <b>[Draft coming soon!]</b> 
