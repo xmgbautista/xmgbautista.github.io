@@ -9,17 +9,17 @@ ___
 
 ___
 
-<h3> Working Papers </h3>
+### Working Papers
 
-"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" <b>[Updated draft coming soon!]</b>
+"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" **[Updated draft coming soon!]**
 <br>
 
-"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," with Steven Craig, Yu-Hsin Hsu, Bent S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma <b>[Updated draft coming soon!]</b> 
+"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," with Steven Craig, Yu-Hsin Hsu, Bent S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma **[Updated draft coming soon!]**
 <br>
 
 ___
 
-<h3> Works in Progress </h3>
+### Works in Progress
 
 "A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle," with Daniel Jacobs
 <br>
@@ -27,5 +27,5 @@ ___
 "Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," with Yuliya Demyanyk, Mar&iacute;a Luengo-Prado, and Bent S&oslash;rensen
 <br>
 
-"Risk and Insurance in Indian Villages: The Role of Local Credit Markets," with Eris Azizaj and Priyam Verma <b>[Draft coming soon!]</b> 
+"Risk and Insurance in Indian Villages: The Role of Local Credit Markets," with Eris Azizaj and Priyam Verma **[Draft coming soon!]**
        
