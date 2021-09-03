@@ -9,9 +9,7 @@ ___
 
 ___
 
-<h3>  
-    About Me 
-</h3>
+### About Me 
 
 Welcome to my website! I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall.
 <br>
@@ -19,16 +17,14 @@ Welcome to my website! I will be joining the Sim Kee Boon Institute for Financia
 My research interests are in macroeconomics, consumption, and household finance.
 <br>
 
-I received my Ph.D. in Economics from the University of Houston. My CV can be downloaded <b><a href="https://www.dropbox.com/s/i6kiv7j366r4d58/cv_xmgbautista.pdf?dl=0">here</a></b>.
+I received my Ph.D. in Economics from the University of Houston. My CV can be downloaded **[here](https://www.dropbox.com/s/i6kiv7j366r4d58/cv_xmgbautista.pdf?dl=0)**.
 <br>
 
 ___
 
-<h3>  
-    Contact Information 
-</h3>
+### Contact Information 
 
-Email: <a href="mailto:xmgbautista@gmail.com">xmgbautista@gmail.com</a><br>
+Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
 Phone: (+63) 966-824-5790
 
 
