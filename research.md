@@ -11,10 +11,10 @@ ___
 
 ### Working Papers
 
-"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" **[Updated draft coming soon!]**
+"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle"
 <br>
 
-"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," with Steven Craig, Yu-Hsin Hsu, Bent S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma **[Updated draft coming soon!]**
+"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011," with Steven Craig, Yu-Hsin Hsu, Bent S&oslash;rensen, Vasundhara Tanwar, and Priyam Verma
 <br>
 
 ___
@@ -27,5 +27,5 @@ ___
 "Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing," with Yuliya Demyanyk, Mar&iacute;a Luengo-Prado, and Bent S&oslash;rensen
 <br>
 
-"Risk and Insurance in Indian Villages: The Role of Local Credit Markets," with Eris Azizaj and Priyam Verma **[Draft coming soon!]**
+"Risk and Insurance in Indian Villages: The Role of Local Credit Markets," with Eris Azizaj and Priyam Verma
        
