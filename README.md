@@ -16,7 +16,7 @@ Welcome to my website! I will be joining the Sim Kee Boon Institute for Financia
 <br>
 
 I received my Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance. My work 
-studies how economic agents make their consumption/savings decisions in the face of uncertainty.
+studies how economic agents make their consumption and savings decisions in the face of uncertainty.
 <br>
 
 ___

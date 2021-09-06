@@ -1,2 +1,9 @@
 **/archived_pages
+**/Data
+**/Code
 *.tex
+*.otp
+*.gz
+*.out
+*.aux
+cv_xmgbautista.txt
