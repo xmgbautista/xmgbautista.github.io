@@ -4,7 +4,7 @@ ___
     <p align="right"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
         <a href="https://xmgbautista.github.io/research">Research</a> &emsp;
-        <a href="https://xmgbautista.github.io/assets/cv_xmgbautista.pdf">CV</a>
+        <a href="https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf">CV</a>
     </p>
 </h3>
 
