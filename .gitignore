@@ -2,7 +2,8 @@
 **/Data
 **/Code
 *.tex
-*.otp
+*.otf
+*.log
 *.gz
 *.out
 *.aux
