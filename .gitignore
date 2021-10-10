@@ -7,4 +7,6 @@
 *.gz
 *.out
 *.aux
+*.PNG
+default_minimal.html
 cv_xmgbautista.tex
