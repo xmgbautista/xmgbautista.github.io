@@ -1,10 +1,10 @@
 ___
 
 <h3> 
-    <p align="right"> 
+    <p align="center"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
-        <a href="https://xmgbautista.github.io/research">Research</a> &emsp;
-        <a href="https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf">CV</a> 
+        <a href="https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf">CV</a> &emsp;
+        <a href="https://xmgbautista.github.io/research">Research</a>
     </p>
 </h3>
 
