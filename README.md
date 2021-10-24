@@ -12,7 +12,7 @@ ___
 
 ### About Me 
 
-I received my Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance, with a focus on the implications of microeconomic heterogeneity and risk on economic outcomes. I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall.
+I received my Ph.D. in Economics from the University of Houston. My research focuses on macroeconomic questions that seek to understand how agents insure against risk and investigate the role of microeconomic heterogeneity on economic outcomes. I will be joining the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall.
 <br>
 
 ___
