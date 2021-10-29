@@ -15,7 +15,8 @@ ___
 "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle."
 <br>
 
-"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011." (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), Vasundhara&nbsp;Tanwar, and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
+"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011." (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), 
+[Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
 <br>
 
 ___
