@@ -3,7 +3,6 @@ ___
 <h3> 
     <p align="center"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
-        <a href="https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf">CV</a> &emsp;
         <a href="https://xmgbautista.github.io/research">Research</a>
     </p>
 </h3>
@@ -12,10 +11,10 @@ ___
 
 ### Working Papers
 
-"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle."
+"Student debt, homeownership, and wealth accumulation over the life cycle."
 <br>
 
-"Expenditure Smoothing with Balanced Budget Rules: U.S. State Governments 1976&ndash;2011." (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), 
+"Smoothing under balanced budget rules: Rainy day funds or saving for a rainy day?," (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), 
 [Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
 <br>
 
@@ -23,11 +22,11 @@ ___
 
 ### Works in Progress
 
-"A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle." (With [Daniel&nbsp;Jacobs](https://dljacobs.github.io/).)
+"A key to the puzzle: Financial literacy and the credit card debt puzzle." (With [Daniel&nbsp;Jacobs](https://dljacobs.github.io/).)
 <br>
 
-"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing." (With [Yuliya&nbsp;Demyanyk](http://www.ydemyanyk.com/), [Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado](http://luengoprado.net/), and [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/).)
+"Inequality in refinancing: A structural model of mortgage borrowing, mobility, and refinancing." (With [Yuliya&nbsp;Demyanyk](http://www.ydemyanyk.com/), [Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado](http://luengoprado.net/), and [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/).)
 <br>
 
-"Risk and Insurance in Indian Villages: The Role of Local Credit Markets." (With [Eris&nbsp;Azizaj](https://sites.google.com/site/erisazizaj/home) and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
+"Risk and insurance in Indian villages: The role of local credit markets." (With [Eris&nbsp;Azizaj](https://sites.google.com/site/erisazizaj/home) and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
        
