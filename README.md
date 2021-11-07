@@ -1,6 +1,6 @@
 ___
 
-### About Me 
+## About Me 
 
 I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the implications of heterogeneity on economic outcomes. Here is my [CV](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf).
 <br>
@@ -8,7 +8,7 @@ I will join the Sim Kee Boon Institute for Financial Economics at Singapore Mana
 
 ___
 
-### Working Papers
+## Working Papers
 
 "Student debt, homeownership, and wealth accumulation over the life cycle."
 <br>
@@ -20,7 +20,7 @@ ___
 
 ___
 
-### Works in Progress
+## Works in Progress
 
 "A key to the puzzle: Financial literacy and the credit card debt puzzle." (With [Daniel&nbsp;Jacobs](https://dljacobs.github.io/).)
 <br>
@@ -34,7 +34,7 @@ ___
        
 ___
 
-#### Contact Information 
+## Contact Information 
 
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
 Phone: (+65) 8788-6185
