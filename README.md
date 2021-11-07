@@ -13,18 +13,15 @@ ___
 
 I received my Ph.D. in Economics from the University of Houston. My research interests are in macroeconomics, consumption, and household finance. My current work focuses on understanding how agents insure against risk and the role of microeconomic heterogeneity on economic outcomes. I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall.
 <br>
-<br>
 
-My C.V. can be found [here](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf)
+My C.V. can be found [here](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf).
 <br>
 
 ___
 
 ### Contact Information 
 
-Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
-<br>
-
+Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
 Phone: (+65) 8788-6185
 
 
