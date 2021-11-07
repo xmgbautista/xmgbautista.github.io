@@ -37,7 +37,6 @@ ___
 
 ### Contact Information 
 
-Name: Xavier Martin Gochoco BAUTISTA
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
 Phone: (+65) 8788-6185
 <br>
