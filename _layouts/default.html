@@ -29,9 +29,11 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %} -->
 
-        <!-- {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %} -->
+        {% if site.github.is_user_page %}
+        <!-- <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p> -->
+        <p>Email: <a href="mailto:xmgbautista@gmail.com">xmgbautista@gmail.com</a><br>
+           Phone: (+65) 8788-6185</p>
+        {% endif %}
 
         <!--  {% if site.show_downloads %}
         <ul class="downloads">
@@ -51,8 +53,6 @@
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
-        <p>Email: <a href="mailto:xmgbautista@gmail.com">xmgbautista@gmail.com</a><br>
-           Phone: (+65) 8788-6185</p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
