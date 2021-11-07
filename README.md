@@ -1,23 +1,43 @@
-___
-
-<h3> 
+<!--- <h3> 
     <p align="center"> 
         <a href="https://xmgbautista.github.io/">Home</a> &emsp;
         <a href="https://xmgbautista.github.io/research">Research</a>
     </p>
-</h3>
-
-___
+</h3> --->
 
 ### About Me 
 
-I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the role of microeconomic heterogeneity on economic outcomes. My C.V. can be found [here](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf). <!--- I received my Ph.D. in economics from the University of Houston in May 2021. My research interests are in macroeconomics, consumption, and household finance. --->
+I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the role of microeconomic heterogeneity on economic outcomes. My C.V. can be found [here](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf).
+<br>
+
+__
+
+### Working Papers
+
+"Student debt, homeownership, and wealth accumulation over the life cycle."
+<br>
+
+"Smoothing under balanced budget rules: Rainy day funds or saving for a rainy day?," (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), 
+[Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
 <br>
 
 ___
 
+### Works in Progress
+
+"A key to the puzzle: Financial literacy and the credit card debt puzzle." (With [Daniel&nbsp;Jacobs](https://dljacobs.github.io/).)
+<br>
+
+"Inequality in refinancing: A structural model of mortgage borrowing, mobility, and refinancing." (With [Yuliya&nbsp;Demyanyk](http://www.ydemyanyk.com/), [Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado](http://luengoprado.net/), and [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/).)
+<br>
+
+"Risk and insurance in Indian villages: The role of local credit markets." (With [Eris&nbsp;Azizaj](https://sites.google.com/site/erisazizaj/home) and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
+       
+___
+
 ### Contact Information 
 
+Name: Xavier Martin Gochoco BAUTISTA
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
 Phone: (+65) 8788-6185
 <br>
