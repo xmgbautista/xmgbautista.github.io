@@ -34,12 +34,3 @@ ___
 (With [Eris&nbsp;Azizaj](https://sites.google.com/site/erisazizaj/home) and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
 <br>
 <br>
-       
-___
-
-## Contact Information 
-
-Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
-Phone: (+65) 8788-6185
-<br>
-<br>
