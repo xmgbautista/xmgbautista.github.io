@@ -11,10 +11,7 @@ ___
 
 ### About Me 
 
-I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the role of microeconomic heterogeneity on economic outcomes. <!--- My research interests are in macroeconomics, consumption, and household finance. --->
-<br>
-
-My C.V. can be found [here](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf).
+I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the role of microeconomic heterogeneity on economic outcomes. My C.V. can be found [here](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf). <!--- I received my Ph.D. in economics from the University of Houston in May 2021. My research interests are in macroeconomics, consumption, and household finance. --->
 <br>
 
 ___
