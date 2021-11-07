@@ -1,15 +1,9 @@
-<!--- <h3> 
-    <p align="center"> 
-        <a href="https://xmgbautista.github.io/">Home</a> &emsp;
-        <a href="https://xmgbautista.github.io/research">Research</a>
-    </p>
-</h3> --->
-
 ___
 
 ### About Me 
 
 I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the role of microeconomic heterogeneity on economic outcomes. My C.V. can be found [here](https://xmgbautista.github.io/assets/cv/cv_xmgbautista.pdf).
+<br>
 <br>
 
 ___
@@ -22,8 +16,7 @@ ___
 "Smoothing under balanced budget rules: Rainy day funds or saving for a rainy day?," (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), 
 [Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
 <br>
-
-___
+<br>
 
 ### Works in Progress
 
@@ -34,13 +27,16 @@ ___
 <br>
 
 "Risk and insurance in Indian villages: The role of local credit markets." (With [Eris&nbsp;Azizaj](https://sites.google.com/site/erisazizaj/home) and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
+<br>
+<br>
        
 ___
 
-### Contact Information 
+#### Contact Information 
 
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
 Phone: (+65) 8788-6185
+<br>
 <br>
 
 
