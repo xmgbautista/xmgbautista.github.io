@@ -10,7 +10,7 @@ ___
 
 ## Working Papers
 
-"Student debt, homeownership, and wealth accumulation over the life cycle."
+"A barrier to consumption smoothing: The effect of student debt on homeownership and mortgage refinancing."
 <br>
 
 "Expenditure smoothing under balanced budget rules: Rainy day funds or saving for a rainy day?" (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), [Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
