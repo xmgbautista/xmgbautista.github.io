@@ -23,7 +23,7 @@ ___
 ### Contact Information 
 
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
-Phone: (+63) 966-824-5790
+Phone: (+65) 8788-6185
 
 
 
