@@ -18,6 +18,8 @@ ___
 <br>
 <br>
 
+___
+
 ### Works in Progress
 
 "A key to the puzzle: Financial literacy and the credit card debt puzzle." (With [Daniel&nbsp;Jacobs](https://dljacobs.github.io/).)
