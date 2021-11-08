@@ -10,7 +10,7 @@ ___
 
 ## Working Papers
 
-"Channels of consumption insurance: The role homeownership, mortgage refinancing, and student debt."
+"Insuring consumption against income risk: The role homeownership, mortgage refinancing, and student debt."
 <br>
 
 "Expenditure smoothing under balanced budget rules: Rainy day funds or saving for a rainy day?" (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), [Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
