@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. 
-My current research focuses on understanding how agents insure against risk and the implications of heterogeneity on economic outcomes.
+I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the implications of heterogeneity on economic outcomes.
 
 ___
 ## Contact Information
