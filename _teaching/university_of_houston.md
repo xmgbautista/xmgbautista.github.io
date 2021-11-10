@@ -1,9 +1,9 @@
 ---
 title: "University of Houston"
 collection: teaching
-type: ""
+type: "Teaching Assistant"
 permalink: /teaching/uhouston
 venue: "Department of Economics, University of Houston"
-date: ""
+date: 2015
 location: "Houston, TX, USA"
 ---
