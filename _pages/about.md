@@ -10,3 +10,8 @@ redirect_from:
 
 I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. 
 My current research focuses on understanding how agents insure against risk and the implications of heterogeneity on economic outcomes.
+
+## Contact Information
+
+Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
+Phone: (+65) 8788-6185
