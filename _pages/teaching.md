@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 ___
@@ -39,10 +39,3 @@ ___
     <li> Introduction to the Economics of Development <br>
             &emsp; <em> Teaching Assistant, </em> Fall 2014 </li> <br>
 </ul>
-
-
-<!-- {% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
