@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About Me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. My current research focuses on understanding how agents insure against risk and the implications of heterogeneity on economic outcomes.
+<br>
 
 ___
 ## Contact Information
