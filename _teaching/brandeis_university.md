@@ -1,7 +1,7 @@
 ---
 title: "Brandeis Univeristy"
 collection: teaching
-type: ""
+type: "Teaching Assistant"
 permalink: /teaching/brandeis
 venue: "Department of Economics, Brandeis University"
 date: 2014
