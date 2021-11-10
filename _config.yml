@@ -85,10 +85,10 @@ author:
   bio              : " " #Add later.
   location         : "Singapore"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "xmgbautista"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -181,12 +181,12 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  #portfolio:
+  #  output: false
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: false
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -228,22 +228,22 @@ defaults:
       share: false
       comments: false
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: false
-      comment: false
+  #- scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: false
+  #    share: false
+  #    comment: false
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: false
-      share: false
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: false
+  #    share: false
 
 # Sass/SCSS
 sass:
