@@ -12,5 +12,6 @@ I will join the Sim Kee Boon Institute for Financial Economics at Singapore Mana
 
 ___
 ## Contact Information
+
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
 Phone: (+65) 8788-6185
