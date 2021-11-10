@@ -13,7 +13,6 @@ ___
 
 "Expenditure smoothing under balanced budget rules: Rainy day funds or saving for a rainy day?" (With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), Yu-Hsin&nbsp;Hsu, [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), [Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
 <br>
-<br>
 
 ___
 
@@ -26,5 +25,4 @@ ___
 <br>
 
 "Risk and insurance in Indian villages: The role of local credit markets." (With [Eris&nbsp;Azizaj](https://sites.google.com/site/erisazizaj/home) and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
-<br>
 <br>
