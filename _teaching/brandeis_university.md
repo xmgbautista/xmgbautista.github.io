@@ -4,6 +4,6 @@ collection: teaching
 type: 
 permalink: /teaching/brandeis
 venue: "Department of Economics, Brandeis University"
-date: 2014-2015
+date: 
 location: "Waltham, MA, USA"
 ---

@@ -4,6 +4,6 @@ collection: teaching
 type: 
 permalink: /teaching/uhouston
 venue: "Department of Economics, University of Houston"
-date: 2015-2021
+date: 
 location: "Houston, TX, USA"
 ---
