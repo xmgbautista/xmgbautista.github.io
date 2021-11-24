@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. in Economics from the University of Houston in 2021. I will join the Sim Kee Boon Institute for Financial Economics at Singapore Management University as a research fellow this fall. 
+I am a research fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. I received my Ph.D. in Economics from the University of Houston in 2021. 
 <br>
 
 My research interests are in macroeconomics, consumption, and household finance, with a focus on understanding how agents insure against risk and the implications of heterogeneity on economic outcomes.
@@ -18,4 +18,4 @@ ___
 ## Contact Information
 
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
-Phone: (+65) 8788-6185
+Mobile: (+65) 8788-6185
