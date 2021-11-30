@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xavier Martin G. Bautista"
 title_separator          : "-"
 name                     : &name "Xavier Martin G. Bautista"
-description              : &description " "
+description              : &description "Research Fellow"
 url                      : https://xmgbautista.github.io
 baseurl                  : 
 repository               : "xmgbautista/xmgbautista.github.io"
