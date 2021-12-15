@@ -17,5 +17,4 @@ My research interests are in macroeconomics, consumption, and household finance,
 ___
 ## Contact Information
 
-Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)<br>
-Mobile: (+65) 97640136
+Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
