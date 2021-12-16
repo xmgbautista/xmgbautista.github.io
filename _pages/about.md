@@ -15,7 +15,7 @@ Welcome to my personal website! I am a research fellow at the Sim Kee Boon Insti
 Business, Singapore Management University. I received my PhD in Economics from the University of Houston.
 <br>
 
-My research interests are in macroeconomics, consumption, and household finance. My CV can be found [here](cv/v_xmgbautista.pdf).
+My research interests are in macroeconomics, consumption, and household finance. My CV can be found [here](cv/cv_xmgbautista.pdf).
 <br>
 
 ___
