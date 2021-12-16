@@ -13,11 +13,10 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-# About Me
+# About
 
 I am a research fellow at the Sim Kee Boon Institute for Financial Economics in the Lee Kong Chian School of 
 Business, Singapore Management University. I received my PhD in Economics from the University of Houston.
-My CV can be found [here](cv/cv_xmgbautista.pdf).
 <br>
 
 **Research Interests:** Macroeconomics, Consumption, and Household Finance.
