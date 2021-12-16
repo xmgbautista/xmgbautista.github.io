@@ -20,6 +20,6 @@ Business, Singapore Management University. I received my PhD in Economics from t
 My CV can be found [here](cv/cv_xmgbautista.pdf).
 <br>
 
-**Research Interests:** macroeconomics, consumption, and household finance.
+**Research Interests:** Macroeconomics, Consumption, and Household Finance.
 <br>
 **Email:** [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
