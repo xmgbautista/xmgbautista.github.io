@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: "Welcome"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
+  - /home.html
 ---
 
 {% include base_path %}
