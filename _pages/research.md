@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Papers
 
-"Insuring consumption against income risk: The role homeownership, mortgage refinancing, and student debt." 
+"Insuring consumption against income risk: The role of homeownership, mortgage refinancing, and student debt." 
 _(Previously titled "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle".)_
 <br>
 
