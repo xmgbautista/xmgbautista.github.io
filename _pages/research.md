@@ -18,7 +18,7 @@ author_profile: true
 "A key to the puzzle: Financial literacy and the credit card debt puzzle" (With [Daniel&nbsp;Jacobs](https://dljacobs.github.io/).)
 <br>
 
-"Inequality in refinancing: A structural model of mortgage borrowing, mobility, and refinancing" (With [Yuliya&nbsp;Demyanyk](http://www.ydemyanyk.com/), [Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado](http://luengoprado.net/), and [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/).)
+"Inequality in refinancing: A structural model of mortgage borrowing, mobility, and refinancing" (With Yuliya&nbsp;Demyanyk, [Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado](http://luengoprado.net/), and [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/).)
 <br>
 
 "Risk and insurance in Indian villages: The role of local credit markets" (With [Eris&nbsp;Azizaj](https://sites.google.com/site/erisazizaj/home) and [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
