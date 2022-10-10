@@ -15,12 +15,17 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-# About Me
+**About Me**
 
-I am a research fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. I received my Ph.D. in Economics from the University of Houston. 
+I am a research fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. 
+I received my Ph.D. in Economics from the University of Houston. 
 <br>
 
-**Research Interests:** Macroeconomics, Consumption, Household Finance
+**Research Interests** 
+-Macroeconomics
+-Consumption
+-Household Finance
 <br>
 
-**Email:** [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
+**Contact Info** 
+Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
