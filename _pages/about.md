@@ -22,10 +22,12 @@ I received my Ph.D. in Economics from the University of Houston.
 <br>
 
 **Research Interests** 
+
 - Macroeconomics
 - Consumption
 - Household Finance
 <br>
 
 **Contact Info** 
+
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
