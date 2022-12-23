@@ -21,7 +21,7 @@ I am a research fellow at the Sim Kee Boon Institute for Financial Economics at 
 I received my Ph.D. in Economics from the University of Houston. 
 <br>
 
-**Research Interests:** Macroeconomics, Consumption, Household Finance, Labor Economics
+**Research Interests:** Macroeconomics, Household Finance, Labor Economics
 <br>
 
 **Email:** [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
