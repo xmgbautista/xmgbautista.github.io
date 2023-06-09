@@ -26,11 +26,13 @@ author_profile: true
 [Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/).)
 <br>
 
+<!--
 "Labor Market Fluidity and the Insurance Effects from Taxes and Hours" 
 (With [German&nbsp;Cubas](https://germancubas.com/), 
 [Musab&nbsp;Kurnaz](https://sites.google.com/view/musabkurnaz/), 
 [Pedro&nbsp;Silos](https://www.pedrosilos.net/), and 
 [Terry&nbsp;Yip](https://www.terry-yip.com/).)
+-->
 
 "Importing Goods or Technology: Different Paths to Structural Transformation" 
 (With [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)

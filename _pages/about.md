@@ -17,7 +17,7 @@ redirect_from:
 
 ## About Me
 
-I am a research fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. 
+I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. 
 I received my Ph.D. in Economics from the University of Houston. 
 <br>
 
