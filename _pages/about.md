@@ -25,11 +25,10 @@ Economics from the University of Houston.
 * Household Finance
 
 ## Contact Details
-:---------------| :---------------------------------------------
-		 Email: | [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com) <br>
-Phone (Office): | (+65) 6828 1990
-		Office: | Sim Kee Boon Institute for Financial Economics <br>
-				| Lee Kong Chian School of Business <br>
-				| Singapore Management University <br>
-				| 50 Stamford Road <br>
-				| Singapore 178899
+		 Email: | [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com) |
+Phone (Office): | (+65) 6828 1990 |
+		Office: | Sim Kee Boon Institute for Financial Economics |
+				| Lee Kong Chian School of Business |
+				| Singapore Management University |
+				| 50 Stamford Road |
+				| Singapore 178899 |
