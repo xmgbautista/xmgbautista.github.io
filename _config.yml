@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : " "
 title_separator          : "-"
 name                     : &name "Xavier Martin G. Bautista"
 description              : &description "Economist"
