@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : " "
 title_separator          : "-"
 name                     : &name "Xavier Martin G. Bautista"
-description              : &description "Research Fellow"
+description              : &description "Economist"
 url                      : https://xmgbautista.github.io
 baseurl                  : 
 repository               : "xmgbautista/xmgbautista.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xavier Martin G. Bautista"
   avatar           : "avatar/bautista_headshot.png"
-  bio              : "Research Fellow at Singapore Management University"
+  bio              : "Research Fellow at the Sim Kee Boon Institute for Financial Economics"
   location         : "Singapore"
-  employer         :
+  employer         : "Singapore Management University"
   pubmed           : 
   googlescholar    : 
   email            : "xmgbautista@gmail.com"
