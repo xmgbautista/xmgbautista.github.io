@@ -21,7 +21,13 @@ I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at 
 Economics from the University of Houston. 
 <br>
 
-**Research Interests:** Macroeconomics, Household Finance
+Research Interests: Macroeconomics, Household Finance
 <br>
 
-**Email:** [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
+## Contact Details
+Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com)
+Office: Sim Kee Boon Institute for Financial Economics
+	&emsp; Singapore Management University
+	&emsp; Lee Kong Chian School of Business
+	&emsp; 50 Stamford Road
+	&emsp; Singapore 178899
