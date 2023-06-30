@@ -17,8 +17,8 @@ redirect_from:
 
 ## About Me
 
-I am a Research Fellow at the [Sim Kee Boon Institute for Financial Economics](https://skbi.smu.edu.sg/) at Singapore Management University. 
-I received my Ph.D. in Economics from the University of Houston. 
+I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. I received my Ph.D. in 
+Economics from the University of Houston. 
 <br>
 
 **Research Interests:** Macroeconomics, Household Finance
