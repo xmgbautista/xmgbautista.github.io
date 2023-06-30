@@ -25,7 +25,7 @@ Economics from the University of Houston.
 * Household Finance
 
 ## Contact Details
-Email: <!-- null -->xmg<!-- null -->bautista<!-- null -->@<!-- null -->gmail<!-- null -->.com <br>
+Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com) <br>
 Address: Sim Kee Boon Institute for Financial Economics <br>
 &emsp;&emsp;&emsp;&emsp;Lee Kong Chian School of Business <br>
 &emsp;&emsp;&emsp;&emsp;Singapore Management University <br>
