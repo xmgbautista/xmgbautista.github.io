@@ -26,7 +26,6 @@ Economics from the University of Houston.
 
 ## Contact Details
 Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com) <br>
-Phone (Office): (+65) 6828 1990 <br>
 Address: Sim Kee Boon Institute for Financial Economics <br>
 &emsp;&emsp;&emsp;&emsp;Lee Kong Chian School of Business <br>
 &emsp;&emsp;&emsp;&emsp;Singapore Management University <br>
