@@ -23,11 +23,3 @@ Economics from the University of Houston.
 ## Research Interests
 * Macroeconomics
 * Household Finance
-
-## Contact Details
-Email: [xmgbautista@gmail.com](mailto:xmgbautista@gmail.com) <br>
-Address: Sim Kee Boon Institute for Financial Economics <br>
-&emsp;&emsp;&emsp;&emsp;Lee Kong Chian School of Business <br>
-&emsp;&emsp;&emsp;&emsp;Singapore Management University <br>
-&emsp;&emsp;&emsp;&emsp;50 Stamford Road <br>
-&emsp;&emsp;&emsp;&emsp;Singapore 178899
