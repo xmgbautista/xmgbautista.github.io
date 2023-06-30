@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-**Working Papers**
+## Working Papers
 
 "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle"
 <br>
@@ -18,7 +18,7 @@ author_profile: true
 [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)
 <br>
 
-**Works in Progress**
+## Works in Progress
 
 "Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing" 
 (With Yuliya&nbsp;Demyanyk, 
