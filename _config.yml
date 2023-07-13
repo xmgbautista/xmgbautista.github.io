@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xavier Martin G. Bautista"
   avatar           : "avatar/bautista_headshot.png"
-  bio              : "Research Fellow at <a style='color: black;' href='https://skbi.smu.edu.sg/'>Singapore Management University</a><br><br><ul><lt>Research Interests:<lt><ul><li>Macroeconomics</li><li>Household Finance</li></ul></ul>"
+  bio              : "Research Fellow at <a style='color: black;' href='https://skbi.smu.edu.sg/'>Singapore Management University</a><br><br>Research Interests:<dl><dt>Macroeconomics</dt><dt>Household Finance</dt></dl>"
   location         : "50 Stamford Rd <br> &ensp;&emsp;Singapore <br> &ensp;&emsp;178899"
   employer         : 
   pubmed           : 
