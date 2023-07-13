@@ -18,7 +18,7 @@ redirect_from:
 ## About Me
 
 I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. I received my Ph.D. in 
-Economics from the University of Houston.
+Economics from the University of Houston, and my B.A. in Economics and B.A. in Mathematics from Brandeis University.
 
 ## Research Interests
 * Macroeconomics
