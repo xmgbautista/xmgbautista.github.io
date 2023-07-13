@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Xavier Martin G. Bautista"
   avatar           : "avatar/bautista_headshot.png"
-  bio              : "Research Fellow at <a style='color: black;' href='https://skbi.smu.edu.sg/'>Singapore Management University</a>"
+  #bio              : "Research Fellow at <a style='color: black;' href='https://skbi.smu.edu.sg/'>Singapore Management University</a>"
+  bio              : "Research Fellow at Singapore Management University"
   location         : "Singapore"
   employer         : 
   pubmed           : 
