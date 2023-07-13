@@ -23,4 +23,4 @@ Economics from the University of Houston, and my B.A. in Economics and B.A. in M
 
 ## Research Interests
 * Macroeconomics
-* Householld Finance
+* Household Finance
