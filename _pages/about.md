@@ -19,7 +19,7 @@ redirect_from:
 <p style='text-align: justify;'>
 I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. I received my Ph.D. in 
 Economics from the University of Houston, and my B.A. in Economics and in Mathematics from Brandeis University. My C.V. can be downloaded 
-<a href="https://xmgbautista.github.io/cv/cv_xmgbautista.pdf" target="_blank" rel="noopener noreferrer">here</a>.
+<a style='color: black;' href="https://xmgbautista.github.io/cv/cv_xmgbautista.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 </p>
 
 ## Research Interests
