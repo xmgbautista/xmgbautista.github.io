@@ -23,5 +23,5 @@ Economics from the University of Houston, and my B.A. in Economics and in Mathem
 <br>
 My research interests are in macroeconomics and household finance. I study the aggregate and distributional effects of agents' consumption 
 and savings decisions, household debt, labor choices, and heterogeneity. In my research, I highlight key economic mechanisms by integrating 
-economic theory and data using computational and econometric methods.
+economic theory and microdata using computational and econometric methods.
 </p>
