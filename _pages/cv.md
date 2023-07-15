@@ -10,7 +10,7 @@ author_profile: true
 
 ## Curriculum Vitae
 
-If the embedded PDF below does not load, you can download it [here](cv_xmgbautista.pdf).
+If the embedded PDF below does not load, you can download it <a style='color: black;' href='https://xmgbautista.github.io/cv/cv_xmgbautista.pdf'>here</a>.
 <br>
 
 <embed src="https://xmgbautista.github.io/cv/cv_xmgbautista.pdf" type="application/pdf" width="100%" />
