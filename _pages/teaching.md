@@ -23,7 +23,7 @@ author_profile: true
 
 ## Brandeis University
 
-#### Teaching Assistant
+### Teaching Assistant
 
 * Econometrics (Spring 2015)
 * Introduction to the Economics of Development (Fall 2014)
