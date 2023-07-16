@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
+
 * <p style='text-align: justify;'>"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle"</p>
 * <p style='text-align: justify;'>"Expenditure Smoothing under Balanced Budget Rules: Rainy Day Funds or Saving for a Rainy Day?" 
 (With Steven&nbsp;G.&nbsp;Craig, Yu-Hsin&nbsp;Hsu, Bent&nbsp;E.&nbsp;S&oslash;rensen, Vasundhara&nbsp;Tanwar, and Priyam&nbsp;Verma.)</p>
@@ -16,6 +17,7 @@ author_profile: true
 [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)-->
 
 ## Works in Progress
+
 * <p style='text-align: justify;'>"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing" 
 (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, and Bent&nbsp;E.&nbsp;S&oslash;rensen.)</p>
 <!--(With Yuliya&nbsp;Demyanyk, 
