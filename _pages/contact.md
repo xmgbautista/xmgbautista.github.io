@@ -11,7 +11,7 @@ author_profile: true
 ## Contact
 
 <p style='text-align: justify;'>
-I can be contacted by email or through my LinkedIn page, both of which are in the profile section. To schedule a meeting over Google Meet, please 
+I can be contacted by email or through my LinkedIn page, both of which are on my profile. To schedule a meeting over Google Meet, please 
 reserve a slot in the calendar below. Each slot is 30 minutes and must be booked at least 6 hours and up to 90 days in advance.
 </p>
 
