@@ -11,7 +11,7 @@ author_profile: true
 ## Contact
 
 <p style='text-align: justify;'>
-Please feel free to connect by email or through LinkedIn using the links on my profile. To schedule a virtual meeting with me, please select a 
+Please feel free to connect by email or through LinkedIn using the links in my profile. To schedule a virtual meeting with me, please select a 
 slot in the calendar below. Each slot is 30 minutes and must be booked at least 6 hours and up to 90 days in advance.
 </p>
 
