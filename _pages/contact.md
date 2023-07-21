@@ -11,8 +11,9 @@ author_profile: true
 ## Contact
 
 <p style='text-align: justify;'>
-Please feel free to connect by email or through LinkedIn using the links in my profile. To schedule a virtual meeting with me, please select a 
-slot in the calendar below. Each slot is 30 minutes and must be booked at least 6 hours and up to 90 days in advance.
+Feel free to connect with me by email or through LinkedIn using the links in my profile. To schedule a virtual meeting with me, please 
+select a slot in the calendar below. Each slot is 30 minutes and must be booked at least 6 hours and up to 90 days in advance. If the calendar 
+does notload, click <a style='color: black;' href='https://calendly.com/xmgbautista/individual_meeting'>here</a>.
 </p>
 
 <!-- Calendly inline widget begin -->
