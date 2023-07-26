@@ -21,7 +21,6 @@ I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at 
 Economics from the University of Houston and my B.A. in Economics and in Mathematics from Brandeis University. <br>
 <br>
 My research interests are in macroeconomics, household finance, and labor economics. I study the aggregate and distributional effects of 
-households' consumption, labor, and financial decisions on the economy by integrating theory and data using computational and 
-econometric methods. My current research focuses on how the distribution of the marginal propensity to consume changes in response to 
-government policies and how financial decisions over the life cycle affect consumption smoothing.
+households' consumption, labor, and financial decisions on the economy. My current research focuses on understanding the endogeneity of 
+the distribution of the marginal propensity to consume and how financial decisions over the life cycle affect consumption smoothing.
 </p>
