@@ -22,5 +22,5 @@ Economics from the University of Houston and my B.A. in Economics and in Mathema
 <br>
 My research interests are in macroeconomics, household finance, and labor economics. I study the aggregate and distributional effects of 
 households' consumption, labor, and financial decisions on the economy. My current research focuses on understanding the endogeneity of 
-the distribution of the marginal propensity to consume and investigating the channels of consumption smoothing.
+the distribution of the marginal propensity to consume and quantifying the effect of different consumption smoothing channels.
 </p>
