@@ -20,7 +20,6 @@ redirect_from:
 I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. I received my Ph.D. in 
 Economics from the University of Houston and my B.A. in Economics and in Mathematics from Brandeis University. <br>
 <br>
-My research interests are in macroeconomics, household finance, and labor economics. I study the aggregate and distributional effects of 
-household decisions on the economy. My current research focuses on understanding the shifts in the distribution of the marginal propensity 
-to consume and quantifying how much consumption is smoothed through different channels.
+My research interests are in quantitative macroeconomics, household finance, and labor economics. My current research focuses on modeling 
+consumer behavior that is consistent with observed heterogeneity and quantifying how much consumption is smoothed through different channels.
 </p>
