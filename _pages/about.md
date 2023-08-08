@@ -21,6 +21,6 @@ I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at 
 Economics from the University of Houston and my B.A. in Economics and in Mathematics from Brandeis University. <br>
 <br>
 My research interests are in macroeconomics, household finance, and labor economics. My current research focuses on modeling the behavior 
-of agents and the economy in a way that is consistent with empirical evidence. Using quantitative macro models, I quantify how much 
-consumption is smoothed through different channels and the welfare effects of government policy.
+of agents and the economy in a way that is consistent with empirical evidence. I am particularly interested in quantifying how much 
+consumption is smoothed through different channels and the welfare effects of government policies.
 </p>
