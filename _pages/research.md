@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Working Papers
+### Working Papers
 
 * <p style='text-align: justify;'>"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle"</p>
 * <p style='text-align: justify;'>"Expenditure Smoothing under Balanced Budget Rules: Rainy Day Funds or Saving for a Rainy Day?" 
@@ -16,7 +16,7 @@ author_profile: true
 [Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and 
 [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)-->
 
-## Works in Progress
+### Works in Progress
 
 * <p style='text-align: justify;'>"Inequality in Refinancing: A Structural Model of Mortgage Borrowing, Mobility, and Refinancing" 
 (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, and Bent&nbsp;E.&nbsp;S&oslash;rensen.)</p>

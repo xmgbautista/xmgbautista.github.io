@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-## Contact
+### Contact
 
 <p style='text-align: justify;'>
 Feel free to connect with me by email or through LinkedIn using the links in my profile. To schedule a virtual meeting with me, please 
