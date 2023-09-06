@@ -31,4 +31,4 @@ author_profile: true
 <!--(With [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)-->
 <p style='text-align: justify;'>"Consumption Inequality and Heterogeneous Insurance"</p>
 <p style='text-align: justify;'>"Consumer Expectations and Financial Access"</p>
-<p style='text-align: justify;'>"Financial Literacy and the Distribution of Preferences"</p>
+<p style='text-align: justify;'>"Heterogeneous Welfare Effects of Financial Literacy Investments"</p>
