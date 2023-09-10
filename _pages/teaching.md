@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Instructor, Department of Economics, University of Houston
+### Teaching Fellow (Instructor), Department of Economics, University of Houston
 
 * Ph.D. Math Camp MATLAB session (Summer 2019, Summer 2020)
 * Microeconomic Principles (Summer 2018, Fall 2018, Spring 2020)
