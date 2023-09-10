@@ -10,25 +10,17 @@ author_profile: true
 <p style='text-align: justify;'>"Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" </p>
 <p style='text-align: justify;'>"Expenditure Smoothing under Balanced Budget Rules" 
 (With Steven&nbsp;G.&nbsp;Craig, Annie&nbsp;Yu-Hsin&nbsp;Hsu, Bent&nbsp;E.&nbsp;S&oslash;rensen, Vasundhara&nbsp;Tanwar, and Priyam&nbsp;Verma.)</p>
-<!--(With [Steven&nbsp;G.&nbsp;Craig](https://www.uh.edu/class/economics/people/current-faculty/steve/), 
-[Yu-Hsin&nbsp;Hsu](https://www.annieyuhsinhsu.com/home), 
-[Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/), 
-[Vasundhara&nbsp;Tanwar](https://sites.google.com/view/vasundharatanwar/home), and 
-[Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)-->
 
 ### Works in Progress
 
 <p style='text-align: justify;'>"Inequality in Refinancing" 
 (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, and Bent&nbsp;E.&nbsp;S&oslash;rensen.)</p>
-<!--(With Yuliya&nbsp;Demyanyk, 
-[Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado](http://luengoprado.net/), and 
-[Bent&nbsp;E.&nbsp;S&oslash;rensen](https://uh.edu/~bsorense/).)-->
-<p style='text-align: justify;'>"A Key to the Puzzle: Financial Literacy and the Credit Card Debt Puzzle" 
+<p style='text-align: justify;'>"Financial Literacy and the Credit Card Debt Puzzle" 
 (With Daniel&nbsp;Jacobs.) </p>
-<!--(With [Daniel&nbsp;Jacobs](https://dljacobs.github.io/).)-->
-<p style='text-align: justify;'>"Importing Goods or Technology: Different Paths to Structural Transformation" 
+<p style='text-align: justify;'>"Why is the Value-Added of Manufacturing in India Flat?"
+(With Priyam&nbsp;Verma and Kriti&nbsp;Khanna.)</p>
+<p style='text-align: justify;'>"Why is the Service Sector Booming in India?" 
 (With Priyam&nbsp;Verma.)</p>
-<!--(With [Priyam&nbsp;Verma](https://sites.google.com/view/priyamverma/home).)-->
 <p style='text-align: justify;'>"Consumption Inequality and Heterogeneous Insurance"</p>
 <p style='text-align: justify;'>"Consumer Expectations and Financial Access"</p>
 <p style='text-align: justify;'>"Heterogeneous Welfare Effects of Financial Literacy Investments"</p>
