@@ -19,7 +19,7 @@ author_profile: true
 (With Daniel&nbsp;Jacobs.) </p>
 <p style='text-align: justify;'>"Why is the Value-Added of Manufacturing in India Flat?"
 (With Priyam&nbsp;Verma and Kriti&nbsp;Khanna.)</p>
-<p style='text-align: justify;'>"Why is the Service Sector Booming in India?" 
+<p style='text-align: justify;'>"Why is the Service Sector in India Booming?" 
 (With Priyam&nbsp;Verma.)</p>
 <p style='text-align: justify;'>"Consumption Inequality and Heterogeneous Insurance"</p>
 <p style='text-align: justify;'>"Consumer Expectations and Financial Access"</p>
