@@ -17,10 +17,10 @@ author_profile: true
 (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, and Bent&nbsp;E.&nbsp;S&oslash;rensen.)</p>
 <p style='text-align: justify;'>"Financial Literacy and the Credit Card Debt Puzzle" 
 (With Daniel&nbsp;Jacobs.) </p>
-<p style='text-align: justify;'>"Why is the Value-Added of Manufacturing in India Flat?"
+<!--<p style='text-align: justify;'>"Why is the Value-Added of Manufacturing in India Flat?"
 (With Priyam&nbsp;Verma and Kriti&nbsp;Khanna.)</p>
 <p style='text-align: justify;'>"Why is the Service Sector in India Booming?" 
-(With Priyam&nbsp;Verma.)</p>
+(With Priyam&nbsp;Verma.)</p>-->
 <p style='text-align: justify;'>"Consumption Inequality and Heterogeneous Insurance"</p>
 <p style='text-align: justify;'>"Consumer Expectations and Financial Access"</p>
 <p style='text-align: justify;'>"Heterogeneous Welfare Effects of Financial Literacy Investments"</p>
