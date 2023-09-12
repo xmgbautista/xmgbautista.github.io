@@ -5,21 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching Fellow (Instructor), Department of Economics, University of Houston
+### Department of Economics, University of Houston
 
 * Ph.D. Math Camp MATLAB session (Summer 2019, Summer 2020)
 * Microeconomic Principles (Summer 2018, Fall 2018, Spring 2020)
 * Macroeconomic Principles (Spring 2018, Spring 2019)
-
-### Teaching Assistant, Department of Economics, University of Houston
-
-* Intermediate Macroeconomics (Spring 2021)
-* Econometrics II, Ph.D. Course (Spring 2018, Fall 2019, Fall 2020)
-* Econometrics I, Ph.D. Course (Spring 2017)
-* Macroeconomic Principles (Fall 2015, Spring 2016)
-* Money and Banking (Fall 2015, Spring 2016)
-
-### Teaching Assistant, Department of Economics, Brandeis University
-
-* Econometrics (Spring 2015)
-* Introduction to the Economics of Development (Fall 2014)
