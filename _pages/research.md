@@ -16,4 +16,4 @@ author_profile: true
 * "Financial Literacy and the Credit Card Debt Puzzle" (With Daniel&nbsp;Jacobs.) <br>
 * "Consumption Inequality and Heterogeneous Insurance" <br>
 * "Consumer Expectations and the Demand for Credit" <br>
-* "Optimal Financial Literacy Policies"
+* "Optimal Financial Inclusion Policies"
