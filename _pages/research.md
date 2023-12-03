@@ -9,7 +9,6 @@ author_profile: true
 
 * "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" (Updated draft coming soon.) <br>
 * "Expenditure Smoothing under Balanced Budget Rules" (With Steven&nbsp;G.&nbsp;Craig, Annie&nbsp;Yu&#8209;Hsin&nbsp;Hsu, Bent&nbsp;E.&nbsp;S&oslash;rensen, Vasundhara&nbsp;Tanwar, and Priyam&nbsp;Verma.) <br>
-* "Financial Inclusion and Household Debt" (Draft coming soon.)
 
 ### Works in Progress
 
@@ -17,4 +16,5 @@ author_profile: true
 * "Financial Literacy and the Credit Card Debt Puzzle" (With Daniel&nbsp;Jacobs.) <br>
 * "Consumption Inequality and Heterogeneous Insurance" <br>
 * "Consumer Expectations and the Demand for Credit" <br>
-* "Optimal Financial Inclusion Policies"
+* "Optimal Financial Inclusion Policies" <br>
+* "Financial Inclusion and Household Debt" (Draft coming soon.)
