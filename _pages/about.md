@@ -23,5 +23,5 @@ I received my Ph.D. in Economics from the University of Houston. <br>
 <br>
 My research interests are in quantitative macroeconomics and household finance. The questions I am interested in typically focus 
 on household financial decision-making and the heterogeneous effects of macroeconomic policies. My work to date broadly covers the 
-topics of household debt, consumer theory, financial inclusion, and the macroeconomic aspects of labor economics.
+topics of household debt, consumer theory, financial inclusion, and the macroeconomic aspects of labor and public economics.
 </p>
