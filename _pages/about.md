@@ -21,7 +21,7 @@ redirect_from:
 I am a post-doctoral Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. 
 I received my Ph.D. in Economics from the University of Houston. <br>
 <br>
-My research interests are in quantitative macroeconomics and household finance. I study how agents' consumption, labor, and 
-financial decisions affect the economy and respond to policy, typically using calibrated or structurally estimated 
-heterogeneous-agent models.
+My research interests are in quantitative macroeconomics and household finance. The questions I am typically interested in focus 
+on household financial decision-making and the heterogeneous effects of economic policies. Wy work to date broadly covers the 
+topics of household debt, consumer theory, financial inclusion, and the macroeconomic aspects of labor economics.
 </p>
