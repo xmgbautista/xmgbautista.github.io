@@ -22,6 +22,6 @@ I am a post-doctoral Research Fellow at the Sim Kee Boon Institute for Financial
 I received my Ph.D. in Economics from the University of Houston. <br>
 <br>
 My research interests are in quantitative macroeconomics and household finance. The questions I am typically interested in focus 
-on household financial decision-making and the distributional effects of macroeconomic policies. Wy work to date broadly covers the 
+on household financial decision-making and the heterogeneous effects of macroeconomic policies. Wy work to date broadly covers the 
 topics of household debt, consumer theory, financial inclusion, and the macroeconomic aspects of labor economics.
 </p>
