@@ -18,7 +18,7 @@ redirect_from:
 ### About Me
 
 <p style='text-align: justify;'>
-I am a post-doctoral Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. 
+I am a Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. 
 I received my Ph.D. in Economics from the University of Houston. <br>
 <br>
 My research interests are in macroeconomics and household finance. The questions I am interested in typically focus 
