@@ -12,7 +12,7 @@ author_profile: true
 
 ### Works in Progress
 
-* "Inequality in Refinancing" (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, and Bent&nbsp;E.&nbsp;S&oslash;rensen.) <br>
+* "Inequality in Refinancing" (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, Vaishali&nbsp;Garga, and Bent&nbsp;E.&nbsp;S&oslash;rensen.) <br>
 * "Financial Literacy and the Credit Card Debt Puzzle" (With Daniel&nbsp;Jacobs.) <br>
 * "Consumption Inequality and Heterogeneous Insurance" <br>
 * "Consumer Expectations and the Demand for Credit" <br>
