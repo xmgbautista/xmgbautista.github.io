@@ -14,7 +14,4 @@ author_profile: true
 
 * "Redistribution from Mortgage Refinancing" (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, Vaishali&nbsp;Garga, and Bent&nbsp;E.&nbsp;S&oslash;rensen.) <br>
 * "Financial Literacy and the Credit Card Debt Puzzle" (With Daniel&nbsp;Jacobs.) <br>
-* "Partial Insurance: A Quantitative Analysis" <br>
-* "Consumer Expectations and the Demand for Credit" <br>
-* "Financial Inclusion Policies in Theory and Practice" <br>
-* "The Dynamics of Household Debt and the Role of Financial Inclusion" (Draft coming soon.)
+* "Financial Inclusion Policies in Theory and Practice" (Draft coming soon.)
