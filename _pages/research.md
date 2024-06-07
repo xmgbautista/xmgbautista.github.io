@@ -12,9 +12,9 @@ author_profile: true
 
 ### Works in Progress
 
-* "Inequality in Refinancing" (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, Vaishali&nbsp;Garga, and Bent&nbsp;E.&nbsp;S&oslash;rensen.) <br>
+* "Redistribution from Mortgage Refinancing" (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, Vaishali&nbsp;Garga, and Bent&nbsp;E.&nbsp;S&oslash;rensen.) <br>
 * "Financial Literacy and the Credit Card Debt Puzzle" (With Daniel&nbsp;Jacobs.) <br>
-* "Consumption Inequality and Heterogeneous Insurance" <br>
+* "Partial Insurance: A Quantitative Analysis" <br>
 * "Consumer Expectations and the Demand for Credit" <br>
-* "Optimal Financial Inclusion Policies" <br>
-* "Financial Inclusion and Household Debt" (Draft coming soon.)
+* "Financial Inclusion Policies in Theory and Practice" <br>
+* "The Dynamics of Household Debt and the Role of Financial Inclusion" (Draft coming soon.)
