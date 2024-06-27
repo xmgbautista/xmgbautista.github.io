@@ -9,7 +9,7 @@ author_profile: true
 
 * Intermediate Macroeconomics (TA: Spring 2021)
 * Econometrics II, Ph.D. Course (TA: Fall 2017, 2019, and 2020)
-* Ph.D. Math Camp MATLAB session (Instructor: Summer 2019 and 2020)
+* Math Camp MATLAB Session, Ph.D. Course (Instructor: Summer 2019 and 2020)
 * Microeconomic Principles (Instructor: Summer 2018, Fall 2018, Spring 2020)
 * Macroeconomic Principles (TA: Fall 2015, Spring 2016; Instructor: Spring 2018 and 2019)
 * Econometrics I, Ph.D. Course (TA: Spring 2017)
