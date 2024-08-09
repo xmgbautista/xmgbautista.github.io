@@ -12,6 +12,6 @@ author_profile: true
 
 ### Works in Progress
 
-* "Redistribution from Mortgage Refinancing" (With Yuliya&nbsp;Demyanyk, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, Vaishali&nbsp;Garga, and Bent&nbsp;E.&nbsp;S&oslash;rensen.) <br>
+* "Redistribution from Mortgage Refinancing" (With Yuliya&nbsp;Demyanyk, Vaishali&nbsp;Garga, Mar&iacute;a&nbsp;Jos&eacute;&nbsp;Luengo&#8209;Prado, and Bent&nbsp;E.&nbsp;S&oslash;rensen.) <br>
 * "Financial Literacy and the Credit Card Debt Puzzle" (With Daniel&nbsp;Jacobs.) <br>
 * "Financial Inclusion Policies in Theory and Practice" (Draft coming soon.)
