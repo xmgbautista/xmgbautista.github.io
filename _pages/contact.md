@@ -11,7 +11,7 @@ author_profile: true
 ### Contact
 
 <p style='text-align: justify;'>
-I can be reached by email at <a href="mailto:xavier.bautista@fulbright.edu.vn">xavier.bautista@fulbright.edu.vn</a>. To schedule a virtual meeting with me, please select a slot in the calendar below. Each slot is 30 minutes and must be booked at least 6 hours and up to 90 days in advance. If the calendar does not load, click <a style='color: black;' href='https://calendly.com/xmgbautista/meetings'>here</a>.
+Feel free to email me at <a href="mailto:xavier.bautista@fulbright.edu.vn">xavier.bautista@fulbright.edu.vn</a>. To schedule a virtual meeting with me, please select a slot in the calendar below. Each slot is 30 minutes and must be booked at least 6 hours and up to 90 days in advance. If the calendar does not load, click <a style='color: black;' href='https://calendly.com/xmgbautista/meetings'>here</a>.
 </p>
 
 <!-- Calendly inline widget begin -->
