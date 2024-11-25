@@ -7,14 +7,9 @@ author_profile: true
 
 ### Undergraduate Program, Fulbright University Vietnam
 
-<!--
-
 * Dynamic Macroeconomics (Spring 2025)
 * Independent Study (Spring 2025)
     - Advanced Macroeconomics (Spring 2025)
-
--->
-
 * Macroeconomic Analysis (Fall 2024, Spring 2025)
 * Economics of Consumption (Fall 2024)
 
