@@ -20,16 +20,17 @@ author_profile: true
 
 ### Department of Economics, University of Houston
 
-* Math Camp MATLAB Session, Ph.D. Course (Summer 2019, 2020)
-* Microeconomic Principles (Summer 2018, Fall 2018, Spring 2020)
-* Macroeconomic Principles (Spring 2018, 2019)
-
 <!--
 
 * Intermediate Macroeconomics (TA: Spring 2021)
 * Econometrics II, Ph.D. Course (TA: Fall 2017, 2019, 2020)
 
 -->
+
+* Math Camp MATLAB Session, Ph.D. Course (Summer 2019, 2020)
+* Microeconomic Principles (Summer 2018, Fall 2018, Spring 2020)
+* Macroeconomic Principles (Spring 2018, 2019)
+
 <!--
 
 * Macroeconomic Principles (Instructor: Spring 2018, 2019); TA: Fall 2015, Spring 2016)
