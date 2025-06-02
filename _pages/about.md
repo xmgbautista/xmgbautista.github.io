@@ -18,7 +18,11 @@ redirect_from:
 ### About Me
 
 <p style='text-align: justify;'>
-I am a macroeconomist in the Faculty of Economics at Fulbright University Vietnam. I received my Ph.D. in Economics from the University of Houston. My research interests are in the areas of quantitative macroeconomics and the economics of the household. My work to date broadly covers the topics of household debt, consumption, financial inclusion, labor markets, and fiscal policy.
+I am a member of the Faculty of Economics at Fulbright University Vietnam. Previously, I was a Research Fellow at the Sim Kee Boon Institute for Financial Economics at Singapore Management University. I received my Ph.D. in Economics from the University of Houston. 
+<br>
+<br>
+
+My areas of research are quantitative macroeconomics and the economics of the household. Using heterogeneous-agent models, I study how decisions at the microeconomic level influence macroeocnomics phoneomena and respond to policy. My work to date broadly covers the topics of household debt, consumption, financial inclusion, labor markets, and fiscal policy.
 <br>
 <br>
 
