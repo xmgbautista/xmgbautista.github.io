@@ -8,7 +8,7 @@ author_profile: true
 ### Working Papers
 
 * "Student Debt, Homeownership, and Wealth Accumulation over the Life Cycle" (Updated draft coming soon.) <br>
-* "Expenditure Smoothing under Balanced Budget Rules" (With Steven&nbsp;G.&nbsp;Craig, Annie&nbsp;Yu&#8209;Hsin&nbsp;Hsu, Bent&nbsp;E.&nbsp;S&oslash;rensen, Vasundhara&nbsp;Tanwar, and Priyam&nbsp;Verma.) *Submitted.* <br>
+* "Expenditure Smoothing under Balanced Budget Rules" (With Steven&nbsp;G.&nbsp;Craig, Annie&nbsp;Yu&#8209;Hsin&nbsp;Hsu, Bent&nbsp;E.&nbsp;S&oslash;rensen, Vasundhara&nbsp;Tanwar, and Priyam&nbsp;Verma.) *Under review.* <br>
 
 ### Works in Progress
 
