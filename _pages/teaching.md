@@ -26,8 +26,8 @@ author_profile: true
 
 -->
 
-* Microeconomic Principles (Summer 2018, Fall 2018, Spring 2020)
 * Macroeconomic Principles (Spring 2018, 2019)
+* Microeconomic Principles (Summer 2018, Fall 2018, Spring 2020)
 
 <!--
 
