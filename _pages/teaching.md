@@ -8,10 +8,13 @@ author_profile: true
 ### Undergraduate Program, Fulbright University Vietnam
 
 * Dynamic Macroeconomics (Spring 2025)
+* Economics of Consumption (Fall 2024)
 * Independent Study (Spring 2025)
     - Advanced Macroeconomics (Spring 2025)
-* Macroeconomic Analysis (Fall 2024, Spring 2025)
-* Economics of Consumption (Fall 2024)
+    - Topics in Macroeconomics: Housing and Public Finance (Summer 2025)
+* International Trade (Fall 2025)
+* Macroeconomic Analysis (Fall 2024 and 2025, Spring 2025)
+* Principles of Economics II (Fall 2025)
 
 ### Department of Economics, University of Houston
 
@@ -19,10 +22,10 @@ author_profile: true
 
 * Intermediate Macroeconomics (TA: Spring 2021)
 * Econometrics II, Ph.D. Course (TA: Fall 2017, 2019, 2020)
+* Math Camp MATLAB Session, Ph.D. Course (Summer 2019, 2020)
 
 -->
 
-* Math Camp MATLAB Session, Ph.D. Course (Summer 2019, 2020)
 * Microeconomic Principles (Summer 2018, Fall 2018, Spring 2020)
 * Macroeconomic Principles (Spring 2018, 2019)
 
