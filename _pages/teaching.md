@@ -7,14 +7,14 @@ author_profile: true
 
 ### Undergraduate Program, Fulbright University Vietnam
 
+* International Trade (Fall 2025)
+* Macroeconomic Analysis (Fall 2024 and 2025, Spring 2025)
+* Principles of Economics 2 (Fall 2025)
 * Dynamic Macroeconomics (Spring 2025)
 * Economics of Consumption (Fall 2024)
 * Independent Study (Spring 2025)
     - Advanced Macroeconomics (Spring 2025)
     - Topics in Macroeconomics: Housing and Public Finance (Summer 2025)
-* International Trade (Fall 2025)
-* Macroeconomic Analysis (Fall 2024 and 2025, Spring 2025)
-* Principles of Economics II (Fall 2025)
 
 ### Department of Economics, University of Houston
 
