@@ -22,7 +22,7 @@ I am a member of the Faculty of Economics at Fulbright University Vietnam. Previ
 <br>
 <br>
 
-My areas of research are quantitative macroeconomics, household finance, labor economics, and international economics. Using heterogeneous-agent models, I study how the decisions of households, firms, and other agents influence economic phenomena. My work to date broadly covers the topics of household debt, consumption, financial inclusion, labor markets, and fiscal policy.
+My areas of research are quantitative macroeconomics, economics of the household, and structural estimation. Using heterogeneous-agent models, I study how the decisions of households in various markets influence economic phenomena and the distributions of macroeconomic variables. My work to date broadly covers the topics of household debt, consumption, financial inclusion, labor markets, housing and spatial economics, and fiscal policy.
 <br>
 <br>
 
